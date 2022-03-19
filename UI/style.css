@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins','sans-serif';
+}
+.header{
+width: 100%;
+height: 100vh;
+background-image: url(./tesla_img/images/image-1.png);
+
+background-color: rgba(0,0,0,0.8);
+background-blend-mode: multiply;
+background-position: center;
+background-size: cover;
+padding: 0 7%;
+}
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 320px;
+    cursor: pointer;
+   
+
+}
+.team h2{
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    margin-top: 50%;
+
+}
+.content {
+    position   : absolute;
+    left       : 50%;
+    top        : 50%;
+    width      : 90%;
+    max-width  : 900px;
+    transform  : translate(-50%, -50%);
+    text-align : center;
+    color      : #fff;
+    padding-top: 50px;
+}
+::placeholder {
+    color: red;
+  }
+ 
