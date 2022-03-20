@@ -14,3 +14,4 @@ By efficient carrier planning using the shortest routes and cheaper modes of tra
 The solution can build visibility on the expected time of arrival (ETA) with vehicle tracking including the impact of seasonality on the transportation. 
 
 Analytics with visuals, dashboards and maps to track and trace vehicles
+Hosted on - https://f054-2402-e280-3d3e-177-a9d5-4937-94-3b60.ngrok.io/
